@@ -1,2 +1,9 @@
-# address-autocomplete-google-api
-address search autocomplete form using google apis
+# Google Maps JavaScript
+
+## Setup
+
+```sh
+npm i
+npm start  # development
+npm run build  # production
+```
